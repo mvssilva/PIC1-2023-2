@@ -6,6 +6,8 @@
 https://www.youtube.com/watch?v=3u7GR9XxcOo
 
 # Informações Adicionais.
-Para o funcionamento do display LCD com modulo I2C, é necessário instalação da biblioteca "LiquidCrystal_I2C.h".
+Para o funcionamento do display LCD com modulo I2C, 
+é necessário instalação da biblioteca "LiquidCrystal_I2C.h".
 Arquivo disponivel em: https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c
+
 Utilizada no projeto a versão 1.1.2
