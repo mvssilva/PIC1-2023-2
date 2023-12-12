@@ -1,5 +1,5 @@
 
-# PIC 1 (02/2023)
+# PIC 1 (UFES - 2023)
 Alunos: Daniel Antunes de Menezes, Débora Azevedo Caetano e Marcos
 Vinícius de Souza Silva
 
